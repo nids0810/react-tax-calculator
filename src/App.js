@@ -76,7 +76,7 @@ function App() {
     const taxableIncome = grossIncome - nonTaxableIncome
     const taxpayable = taxCalculation(taxableIncome)
     const eCess = Math.round(0.3 * taxpayable)
-    const totalIncomeTax = taxpayable + eCess + 200
+    const totalIncomeTax = taxpayable + eCess
 
     setUser({...user, grossIncome, nonTaxableIncome, taxableIncome, taxpayable, eCess, totalIncomeTax})
   }
