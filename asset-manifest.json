@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-tax-calculator/static/css/main.66ad041e.chunk.css",
+    "main.js": "/react-tax-calculator/static/js/main.74c9755b.chunk.js",
+    "main.js.map": "/react-tax-calculator/static/js/main.74c9755b.chunk.js.map",
+    "runtime-main.js": "/react-tax-calculator/static/js/runtime-main.32dab9e2.js",
+    "runtime-main.js.map": "/react-tax-calculator/static/js/runtime-main.32dab9e2.js.map",
+    "static/css/2.4659568d.chunk.css": "/react-tax-calculator/static/css/2.4659568d.chunk.css",
+    "static/js/2.4c0234ce.chunk.js": "/react-tax-calculator/static/js/2.4c0234ce.chunk.js",
+    "static/js/2.4c0234ce.chunk.js.map": "/react-tax-calculator/static/js/2.4c0234ce.chunk.js.map",
+    "static/js/3.1fa6ea11.chunk.js": "/react-tax-calculator/static/js/3.1fa6ea11.chunk.js",
+    "static/js/3.1fa6ea11.chunk.js.map": "/react-tax-calculator/static/js/3.1fa6ea11.chunk.js.map",
+    "index.html": "/react-tax-calculator/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/react-tax-calculator/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.66ad041e.chunk.css.map": "/react-tax-calculator/static/css/main.66ad041e.chunk.css.map",
+    "static/js/2.4c0234ce.chunk.js.LICENSE.txt": "/react-tax-calculator/static/js/2.4c0234ce.chunk.js.LICENSE.txt",
+    "static/media/piggy.c0aaa14f.png": "/react-tax-calculator/static/media/piggy.c0aaa14f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32dab9e2.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.4c0234ce.chunk.js",
+    "static/css/main.66ad041e.chunk.css",
+    "static/js/main.74c9755b.chunk.js"
+  ]
+}
