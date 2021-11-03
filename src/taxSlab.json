@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "lowerlimit": 0,
+    "upperlimit": 250000,
+    "rate": 0,
+    "fixedrate": 0
+},
+{
+    "id": 2,
+    "lowerlimit": 250000,
+    "upperlimit": 500000,
+    "rate": 0.05,
+    "fixedrate": 0
+},
+{
+    "id": 3,
+    "lowerlimit": 500000,
+    "upperlimit": 750000,
+    "rate": 0.1,
+    "fixedrate": 12500
+},
+{
+    "id": 4,
+    "lowerlimit": 750000,
+    "upperlimit": 1000000,
+    "rate": 0.15,
+    "fixedrate": 37500
+},
+{
+    "id": 5,
+    "lowerlimit": 1000000,
+    "upperlimit": 1250000,
+    "rate": 0.2,
+    "fixedrate": 75000
+},
+{
+    "id": 6,
+    "lowerlimit": 1250000,
+    "upperlimit": 1500000,
+    "rate": 0.25,
+    "fixedrate": 125000
+},
+{
+    "id": 7,
+    "lowerlimit": 1500000,
+    "upperlimit": 50000000,
+    "rate": 0.3,
+    "fixedrate": 187500
+}]

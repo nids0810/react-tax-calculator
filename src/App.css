@@ -1,38 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body {
+  font-family: 'Poppins' !important;
+}
+
 .App {
-  text-align: center;
+    width:100%;
+    padding-top: 30px; 
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.leftContainer {
+    width: 70%;
+    float: left;
+    padding: 0 17%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.rightContainer {
+    width: 25%;
+    float: right;
+    margin-right: 50px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.App h3 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
-
-.App-link {
-  color: #61dafb;
+.justifyContent {
+    justify-content: end;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-secondary {
+    margin-right: 15px;
+}
+.summaryPage {
+    font-size: 13px;
+}
+.summarySection {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+.summarySection svg {
+    position: relative;
+    top: 5px;
+    left: 20px;
+    color: #4a5258;
+}
+.summarySection.highlighted {
+    border-left: 5px solid #18ACA7;
+}
+footer {
+    font-size: 13px;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+footer div {
+    background: #f1f2f3;
+    padding: 10px 0;
+}
+.welcomePosition {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.info {
+    font-size: 13px;
+    font-style: italic;
+}
+.summarySection hr {
+    width: 95%;
+    margin: 0 auto !important;
+}
+.summarySection b {
+    text-transform: uppercase;
+}
+input[type="text"], input[type="number"], select {
+    border: 1px solid #ccc;
+}
+.btnColor {
+    background: #18ACA7 !important;
+    border-color: #18ACA7 !important;
 }
